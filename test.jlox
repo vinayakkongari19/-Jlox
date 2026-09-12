@@ -1,0 +1,31 @@
+// Comments, variables, types, print, conditionals, logical operators and loops.
+
+var a = 5;
+var b = 6.9;
+var c = "Hello World";
+var d = true;
+var e = false;
+var f;
+
+print a;
+print b;
+print c;
+print d;
+print e;
+print f;
+
+if (a == 5 and d) {
+    print "Condition is true";
+} else {
+    print "Condition is false";
+}
+
+var i = 0;
+while (i < 3) {
+    i = i + 1;
+    print i;
+}
+
+for (var j = 0; j < 3; j = j + 1) {
+    print j;
+}

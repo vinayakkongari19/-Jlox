@@ -1,0 +1,20 @@
+# Maven / compiled output
+target/
+bin/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Generated AST output
+/gen/
